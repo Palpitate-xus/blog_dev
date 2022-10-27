@@ -1,6 +1,10 @@
 ---
-title: vuepress-theme-reco
-date: 2019-04-09
+title: second page in category1
+date: 2019-09-21
+tags:
+ - tag2
+categories:
+ - other
 ---
 
 ![vuepress](https://img.shields.io/badge/vuepress-0.14.8-brightgreen.svg)
