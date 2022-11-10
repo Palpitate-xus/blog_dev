@@ -48,7 +48,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/Pola-ris",
+            "link": "https://github.com/Palpitate-xus",
             "icon": "reco-github"
           }
         ]
